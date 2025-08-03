@@ -11,7 +11,7 @@ load_dotenv()
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
 
 # ----------- CONFIG ----------- #
-SHEET_NAME = "Mason's Library"  # Google Sheet name
+SHEET_NAME = "Prime's Library"  # Google Sheet name
 
 # ----------- DISCORD SETUP ----------- #
 intents = discord.Intents.default()
